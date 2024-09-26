@@ -2,8 +2,8 @@
 
 import tkinter as tk
 from tkinter import messagebox, StringVar, OptionMenu, filedialog
-from tkinter import ttk  # Import ttk for Treeview
-import pickle  # For saving and loading data
+from tkinter import ttk
+import pickle
 
 from database.db import *
 from Student import Student
