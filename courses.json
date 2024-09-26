@@ -1,0 +1,26 @@
+[
+    {
+        "course_id": "CSC101",
+        "course_name": "Introduction to Computer Science",
+        "instructor": {
+            "name": "John",
+            "age": 25,
+            "email": "what@test.com",
+            "instructor_id": "1000",
+            "assigned_courses": []
+        },
+        "enrolled_students": []
+    },
+    {
+        "course_id": "CSC102",
+        "course_name": "Introduction to Programming",
+        "instructor": {
+            "name": "John",
+            "age": 25,
+            "email": "what@test.com",
+            "instructor_id": "1000",
+            "assigned_courses": []
+        },
+        "enrolled_students": []
+    }
+]

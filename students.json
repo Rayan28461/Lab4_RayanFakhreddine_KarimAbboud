@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Smith",
+        "age": 15,
+        "email": "test@gmail.com",
+        "student_id": "2000",
+        "registered_courses": []
+    },
+    {
+        "name": "Doe",
+        "age": 20,
+        "email": "anything@mail.test",
+        "student_id": "2001",
+        "registered_courses": []
+    }
+]
