@@ -1,0 +1,1 @@
+{"course_id": "CS101", "course_name": "Introduction to Computer Science", "instructor": {"name": "Dr. Smith", "age": 21, "email": "dr.smith@example.com", "instructor_id": "I001"}, "enrolled_students": [{"name": "Alice", "age": 15, "email": "alice@example.com", "student_id": "dsa123"}, {"name": "Bob", "age": 16, "email": "bob@example.com", "student_id": "dsa124"}]}
